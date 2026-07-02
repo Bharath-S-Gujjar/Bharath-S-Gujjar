@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpeg" alt="Bharath S Gujjar" width="150" height="150" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
+  <img src="./profile.jpeg" alt="Bharath S Gujjar" width=auto height="250" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Bharath S Gujjar</h1>
   
   <a href="https://git.io/typing-svg">
@@ -74,10 +74,6 @@
 
 ## 📊 GitHub & LeetCode Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohanmoku&theme=radical" alt="Profile Details" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -89,17 +85,12 @@
 
 <br/>
 
-<!-- <div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/Mohanmoku/Mohanmoku/output/github-contribution-grid-snake.svg?v=1" alt="Contribution Snake" />
-</div> -->
-
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/mo-ku-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/mohanmoku"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:mohanmoku2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/bharath-s-gujjar-5b0976297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Bharath-S-Gujjar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:bharathsgujjar635@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
