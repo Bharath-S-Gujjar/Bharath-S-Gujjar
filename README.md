@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpeg" alt="Bharath S Gujjar" width=auto height="250" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
+  <img src="./mee (2).jpg" alt="Bharath S Gujjar" width=auto height="250" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Bharath S Gujjar</h1>
   
   <a href="https://git.io/typing-svg">
