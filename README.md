@@ -3,7 +3,7 @@
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Bharath S Gujjar</h1>
   
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0849ff&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern;Final-Year+CS+Undergrad;Machine+Learning+Enthusiast;React+Native+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=1edee8&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern;Final-Year+CS+Undergrad;Machine+Learning+Enthusiast;React+Native+App+Developer" alt="Typing SVG" />
 </a>
   
   <br/>
