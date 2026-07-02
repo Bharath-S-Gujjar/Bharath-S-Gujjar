@@ -74,7 +74,7 @@
 
 ## 📊 GitHub & LeetCode Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohanmoku&theme=radical" alt="Profile Details" />
 </div>
 
@@ -91,7 +91,12 @@
   <a href="https://leetcode.com/u/mohanmoku">
     <img src="https://leetcard.jacoblin.cool/mohanmoku?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
-</div>
+</div> -->
+
+[![](https://raw.githubusercontent.com/Bharath-S-Gujjar/Bharath-S-Gujjar/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bharath-S-Gujjar/Bharath-S-Gujjar/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bharath-S-Gujjar/Bharath-S-Gujjar/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bharath-S-Gujjar/Bharath-S-Gujjar/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bharath-S-Gujjar/Bharath-S-Gujjar/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <br/>
 
